@@ -22,7 +22,16 @@
 				},
 				"hi-IN": {
 					"name": "cake walk"
-				}
+				},
+                "es-ES": {
+                    "name": "feliz cumpleaños"
+                },
+                "es-MX": {
+                    "name": "feliz cumpleaños"
+                },
+                "es-US": {
+                    "name": "feliz cumpleaños"
+                }
 			},
 			"isAvailableWorldwide": true,
 			"testingInstructions": "Sample Testing Instructions.",
